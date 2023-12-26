@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Personal Portfolio Webpage" />
+    <title>PlayEmber mint page</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="header-image"><img src="https://playember.com/wp-content/uploads/2023/12/playember_logo_192.png" alt="logo"></div>
+      <div class="header-nav">
+      <nav id="navbar">
+        <ul>
+          <li><a href="https://twitter.com/play_ember">Twitter</a></li>
+          <li><a href="https://discord.gg/playember">Discord</a></li>
+        </ul>
+        </nav>
+        </div>
+        </header>
+        <section id="emby-section">
+          <img src="https://playember.com/wp-content/uploads/2023/12/success_emby.png">
+            <h1>Hey I am Emby</h1>
+            <h1>Let's bring back the Fun to Mobile Games together</h1></div>
+            </section>
+            <section id="mint-page">
+        <h3>Would you like to meet Emby?</h3>
+           <p>Connect your Embylisted wallet</p>
+<a href="https://playember.com/"><button class="button">MINT</span></button></a>
+     </div>
+<img src="https://playember.com/wp-content/uploads/2023/12/emby_half_dec_2023.png">
+            </section>
+            <section id="milestone">
+              <h1>MILESTONES</h1>
+              <div class="info">
+                <h2>120M Downloads</h2>
+                
+              </div>
+              <div class="info">
+                <h2>5M Monthly Active Users</h2>
+                
+              </div>
+              <div class="info">
+                <h2>1.03M Monthly Active Web3 Users</h2>
+                
+              </div>
+              <div class="info">
+                <h2>NO.3 Blockchain Game (Dappradar – 30 days)</h2>
+              
+              </div>
+              </section>
+              <section id="the-team">
+                <h2>Meet the team</h2>
+          <div class="all-projects">
+          <div class="project-tile"><a href="https://twitter.com/JonHook"
+            loading="lazy"
+            ><img
+            src="https://pbs.twimg.com/media/FxYImEKWcAAWs1R?format=jpg&name=large"
+            loading="lazy"
+          /></a>
+          <a href="https://twitter.com/JonHook"
+            loading="lazy"
+            ><div class="image-description"><p><span class="code"><</span>Jon Hook<span class="code">/></span></p></div></a>
+          </div>
+          <div class="project-tile"><a href="https://twitter.com/hugofurn"
+            loading="lazy"
+            ><img
+            src="https://pbs.twimg.com/profile_images/1604054293706903553/24Sy9Ttr_400x400.jpg"
+            alt="image of a calculator project"
+            loading="lazy"
+          /></a>
+          <a href="https://twitter.com/hugofurn"
+            loading="lazy"
+            ><div class="image-description"><p><span class="code"><</span>Hugo Furn<span class="code">/></span></p></div></a>
+          </div>
+          <div class="project-tile"><a href="https://twitter.com/0xAbhiP"
+            loading="lazy"
+            ><img
+            src="https://pbs.twimg.com/profile_images/1689977714864959488/oOFmItxw_400x400.jpg"
+            alt="image of a calculator project"
+            loading="lazy"
+          /></a>
+          <a href="https://twitter.com/0xAbhiP"
+            loading="lazy"
+            ><div class="image-description"><p><span class="code"><</span>Abhi<span class="code">/></span></p></div></a>
+          </div>
+          <div class="project-tile"><a href="https://twitter.com/kickzeth"
+            loading="lazy"
+            ><img
+            src="https://pbs.twimg.com/profile_images/1732895912022646784/F5VN5TBh_400x400.jpg"
+            alt="image of a calculator project"
+            loading="lazy"
+          /></a>
+          <a href="https://twitter.com/kickzeth"
+            loading="lazy"
+            ><div class="image-description"><p><span class="code"><</span>Kickz<span class="code">/></span></p></div></a>
+          </div>
+          <div class="project-tile"><a href="https://twitter.com/eeelistar"
+            loading="lazy"
+            ><img
+            src="https://pbs.twimg.com/profile_images/1737294191720288256/lZ8ZiSyd_400x400.jpg"
+            alt="image of a calculator project"
+            loading="lazy"
+          /></a>
+          <a href="https://twitter.com/eeelistar"
+            loading="lazy"
+            ><div class="image-description"><p><span class="code"><</span>Elisa<span class="code">/></span></p></div></a>
+          </div>
+          <div class="project-tile"><a href="https://twitter.com/Nadir_Nfts"
+            loading="lazy"
+            ><img
+            src="https://pbs.twimg.com/profile_images/1677691252056391680/W40Hjfcl_400x400.jpg"
+            alt="image of a calculator project"
+            loading="lazy"
+          /></a>
+          <a href="https://twitter.com/Nadir_Nfts"
+            loading="lazy"
+            ><div class="image-description"><p><span class="code"><</span>NADIR<span class="code">/></span></p></div></a>
+          </div>          
+          </div>
+          <div class="project-tile"><a href="https://twitter.com/fridgeintheopen"
+            loading="lazy"
+            ><img class="fridge" src="https://pbs.twimg.com/profile_images/1732749518008131587/Pam1s8CK_400x400.jpg"
+            alt="image of a calculator project"
+            loading="lazy"
+          /></a>
+          <a href="https://twitter.com/fridgeintheopen"
+            loading="lazy"
+            ><div class="image-description"><p><span class="code"><</span>openthefridge<span class="code">/></span></p></div></a>
+          </div>          
+          </div>
+              </section>
+              <section id="partners">
+                <h1>Emby's Partners and Investors</h1>
+                <div class="black">
+                  <img src="https://playember.com/wp-content/uploads/2023/12/app_lovin_000.png">
+                <img src="https://playember.com/wp-content/uploads/2023/12/nickelodeon_000.png">
+                <img src="https://playember.com/wp-content/uploads/2023/12/animoca_brands_000.png">
+                <img src="https://playember.com/wp-content/uploads/2023/12/asos_000.png">
+                </div>
+                <div class="white">
+                <img src="https://playember.com/wp-content/uploads/2023/12/shima_capital_000.png">
+                <img src="https://playember.com/wp-content/uploads/2023/12/huobi_ventures_000.png">
+                <img src="https://playember.com/wp-content/uploads/2023/12/lyrik_ventures_000.png">
+                <img src="https://playember.com/wp-content/uploads/2023/12/Warburg_Serres_000.png">
+                <img src="https://playember.com/wp-content/uploads/2023/12/Hyperithm_000.png">
+                <img src="https://playember.com/wp-content/uploads/2023/12/big_brain_holdings_000.png">
+                </div>
+              </section>
+              <footer>
+                <div class="imgg">
+                <img src="https://playember.com/wp-content/uploads/2023/03/PE_Logo_Green.png" alt="logo">
+                <p>Making games more rewarding 🎉</p>
+                </div>
+                <div>
+                  <div class="p"><p>Copyright ©2023 Playember. All rights reserved.</p></div>
+                </div>
+              </footer>
+
+@media (prefers-reduced-motion: no-preference) {
+  * {
+    scroll-behavior: smooth;
+  }
+}
+:root {
+    --main-white: #f8f8f8;
+    --main-blue: #3858e9;
+    --main-black: #1a1a1a;
+    --main-purple: #711BFA;
+    --main-blue2: #45567d;
+    --main-gray: #303841;
+    --main-footer: #3858e9;;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+body {
+  color: var(--main-white);
+  font-family: Helvetica;
+  margin-top: 20px;
+}
+
+header {
+  width: 100%;
+  height: 90px;
+  background-color: var(--main-white);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  position: fixed;
+  top: 0;
+}
+.header-image {
+  width: 50%;
+  display: flex;
+  align-items: left;
+  justify-content: flex-start;
+  margin: 20px;
+  padding: 20px;
+}
+  .header-nav {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: ;
+   }
+   nav {
+     width: 50%;
+     height: 90px;
+   }
+   nav > ul {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-inline-start: 0;
+  margin-block: 0;
+  height: 100%;
+}
+header > .header-image > img {
+  height: 47px;
+}
+nav > ul > li > a {
+  text-decoration: none;
+  font-weight: 700;
+color: var(--main-blue);
+}
+#emby-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+ img {
+  height: 400px;
+}
+#emby-section > h1 {
+color: var(--main-black);
+padding: 10px;
+font-family:  Inter, -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: normal; 
+}
+#mint-page {
+  background-color: var(--main-black);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+#mint-page > img {
+  position: absolut;
+}
+#mint-page > p {
+font-size: 20px;
+font-family: inherit;
+}
+button {
+  cursor: pointer;
+    font-family: inherit;
+    font-size: inherit;
+    text-align: inherit;
+    line-height: inherit;
+    background: var(--main-purple);
+    border-radius: 100vw;
+    color: var(--main-white);
+    display: block;
+    padding: 1em 4em;
+    text-transform: uppercase;
+    margin: 70px;
+}
+a {
+  text-decoration: none;
+}
+#mint-page > h3 {
+font-size: 30px;
+font-family: inherit;
+margin-top: 95px;
+}
+#milestone{
+height: 900px;
+background-color: var(--main-gray);
+align-item: center;
+justify-content: center;
+display: flex;
+flex-direction: column;
+}
+#milestone > h1 {
+color: var(--main-white);
+padding: 20px;
+font-family:  Inter, -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
+    font-size: 2.2rem;
+    font-weight: 600;
+    line-height: 1.5;
+    letter-spacing: normal; 
+    margin: auto;
+    text-ont-weight: 600;align: center;
+    font-size: 40px;
+}
+.info {
+  height: 120px;
+  width: 70%;
+  background-color: var(--main-white);
+  margin: auto;
+  border: 2px solid var(--main-black);
+  border-radius: 30%;
+  align-items: center;
+  display:flex;
+  justify-content: center;
+}
+#milestone > .info > h2 {
+  color: var(--main-purple);
+  font-family: Inter, -apple-system;
+  font-weight: 600;
+  font-size: 40px;
+}
+#the-team {
+  width: 100%;
+  height: 1750px;
+  background-color: var(--main-blue2);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.all-projects {
+  width: 100%;
+  background-color: var(--main-blue2);
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr); 
+  gap: 2px; 
+  row-gap: 5px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+#the-team > h2 {
+  width: 20%;
+  padding-top: 120px;
+  padding-bottom: 5px;
+  border-bottom: 3px solid var(--main-white);
+  font-family: Raleway, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    font-size: 40px;
+}
+.all-projects > .project-tile > a > img {
+  width: 440px;
+  height: 340px;
+}
+.fridge {
+  width: 440px;
+  height: 340px;
+}
+.image-description {
+  background-color: var(--main-gray);
+  height: 60px;
+}
+.image-description > p {
+  color: var(--main-white);
+  text-align: center;
+  font-style: normal;
+  padding-top: 12px;
+  margin: 0;
+  display: block;
+  font-size: 25px;
+}
+.project-tile > a {
+text-decoration: none;
+}
+.project-tile {
+  width: 440px;
+  height: 400px;
+  padding: 20px;
+  margin: 0;
+}
+.code {
+   visibility: hidden;
+   color: var(--main-red);
+}
+.project-tile:hover .code {
+  visibility: visible;
+}
+#partners > .black > img {
+height: 150px;
+width: 150px;
+}
+#partners > .white > img {
+height: 150px;
+width: 175px;
+}
+#partners {
+  height: 200px;
+  width:100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: black;
+}
+.black {
+  height: 150px;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+.white {
+  height: 150px;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+#partners > h1 {
+  width: 30%;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--main-white);
+  font-family: Raleway, sans-serif;
+    font-weight: 500;
+    text-align: center;
+    font-size: 30px;
+}
+footer {
+  height: 150px;
+  width: 100%;
+  background-color: var(--main-footer);
+  margin-top: 100px;
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+footer > .imgg > img {
+  height: 40px;
+  width: 173px;
+}
+.imgg {
+  width: 90%;
+  height: 117px;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.p {
+  width: 90%;
+  display: flex;
+  justify-content: space-evenly;
+}
+p {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
