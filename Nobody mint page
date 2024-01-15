@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>NobodyNFT</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="welcome">
+    <header>
+      <div class="header-container"><img src="https://nobody.xyz/_next/image?url=%2Fnobody_logo_yellow.png&w=1920&q=75"></div>
+      <div class="header-container1">
+        <a href="https://nobody.xyz/declaration" class="button">Manifesto</a>
+        <a href="#" class="button">🌐 En</a>
+        <a href="https://twitter.com/realnobodyxyz" class="button">Twitter</a>
+        <a href="https://www.instagram.com/realnobodyxyz/" class="button">Instagram</a>
+        <a href="https://discord.gg/realnobodyxyz" class="button">Discord</a>
+        <a href="#" class="button">Connect Wallet</a>
+      </div>
+
+    </header>
+    <section id="welcome">
+
+    </section>
+    </div>
+    <div class="seperator"></div>
+    <div class="second-page">
+    <section id="second-page">
+      <div class="img">
+      <img src="https://nobody.xyz/_next/image?url=%2Fnobody_friend_en.png&w=1920&q=75">
+      <img src="https://nobody.xyz/_next/image?url=%2Fnobody_community.webp&w=3840&q=75">
+      </div>
+    </section>
+    </div>
+    <footer>
+      <div class="container1">
+      <div class="box special">
+        <p>Mint</p>
+        <p>Feb 1, 8 PM - Feb 3, 8 PM (UTC+8)</p>
+      </div>
+      <div class="box">
+        <p>Raffle and Airdrop</p>
+        <p>Feb 3, 8 PM - Feb 4, 8 PM (UTC+8)</p>
+      </div>
+      <div class="box">
+        <p>Refund</p>
+        <p>Start from Feb 4, 8 PM (UTC+8)</p>
+      </div>
+      </div>
+      <div class="container2">
+        <a href="#" class="button2">Mint</a>
+      </div>
+    </footer>
+  </body>
+</html>
+
+ body{
+    margin: 0;
+padding: 0;
+   }
+   header {
+width: 100%;
+height: 70px;
+display: flex;
+flex-direction: row;
+background-color: transparent;
+ }
+ .header-container{
+   width: 50%;
+   height: 70px;
+   background-color: transparent;
+ }
+ .header-container1 {
+   width: 50%;
+   height: 70px;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   background-color: transparent;
+ }
+ img {
+   width: 70px;
+   height: 70px;
+   padding-left: 10px;
+ }
+ a {
+   font-family: sans-serif;
+          font-weight: 500;
+ }
+ .button {
+            display: inline-block;
+            border: 2px solid black;
+            padding: 10px 20px;
+            text-decoration: none;
+            color: black; 
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 3px 7px rgba(0, 0, 0, 0.9); 
+            transition: transform 0.3s ease; 
+        }
+
+        .button:hover {
+            transform: translate(4px, 4px); 
+            box-shadow: none;
+            transition: transform 0.3s ease; 
+        }
+        #welcome {
+          height: 100vh;
+          
+        }
+        .welcome {
+          width: 100%;
+          height: calc(100% - 100px);
+background-image: url('https://nobody.xyz/_next/image?url=%2Fhome_bg_mint_1.png&w=1920&q=75');
+        }
+        .second-page {
+          width: 100%;
+          height: 100%;
+background-color: #25ab9b;
+        }
+        #second-page {
+          display: flex;
+      justify-content: center;
+       align-items: center;
+            }
+        .seperator {
+          width: 100%;
+          height: 100px;
+          background-color: #ffd600;
+        }
+        .img {
+          height: 100%;
+          width: 100%;
+          align-item: center;
+          display: grid;
+            grid-template-columns: 1fr 1fr; 
+            gap: 20px; 
+            padding: 20px; 
+        }
+        .img > img {
+          width: 90%;
+          height: 80%;
+          margin: auto;
+        }
+        footer {
+          width: 100%;
+          height: 100px;
+          background-color: #07221f;
+          position: fixed;
+            bottom: 0;
+            display: flex;
+            flex-direction: row;
+            border-top: 2px solid #ffd600
+        }
+        .container1 {
+          width: 50%;
+          height: 100px;
+          display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+            align-item: center;
+            padding-bottom: 5px;
+        }
+        .box {
+          padding: 10px;
+          margin-left: 10px;
+        }
+        p {
+          color: #ffffff;
+          font-family: sans-serif;
+          font-weight: 500;
+        }
+        .container2 {
+         width: 50%;
+          height: 100px;
+          flex-direction: row;
+          display: flex;
+          align-items: center;
+            justify-content: flex-end;
+        }
+        .button2 {
+            display: inline-block;
+            border: 2px solid black;
+            padding: 20px 80px;
+            text-decoration: none;
+            color: black; 
+            background-color: #ffd600;
+            border-radius: 5px;
+            box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); 
+            transition: transform 0.1s ease; 
+            margin-right: 30px;
+        }
+
+        .button2:hover {
+            transform: translate(3px, 3px); 
+        }
+        .special > p { 
+          color: #ffd600;
+          font-family: sans-serif;
+          font-weight: 500;
+        }
